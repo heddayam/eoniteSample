@@ -1,1 +1,1 @@
-# eoniteSample
+# eoniteWixProject
